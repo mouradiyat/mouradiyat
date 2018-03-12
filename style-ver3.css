@@ -786,6 +786,7 @@
 }
 .onp-sociallocker-flat .onp-sociallocker-button {
     background: rgba(0, 0, 0, 0.03);
+        visibility: hidden;
 }
 .onp-sociallocker-flat .onp-sociallocker-button-inner-wrap {
     padding: 7px 10px 10px 10px;
