@@ -795,6 +795,7 @@
 .onp-sociallocker-flat .onp-sociallocker-button-overlay {
     height: 34px;
     min-width: 118px;
+    visibility: hidden;
 }
 .onp-sociallocker-flat .onp-sociallocker-button .onp-sociallocker-overlay-front {
     background: #eaeaea;
@@ -886,9 +887,9 @@
     right: 8px;
 }
 .onp-sociallocker-flat .onp-sociallocker-timer {
-    right: 10px;
-    bottom: 8px;
-    color: #777;
+    right: 5px;
+    bottom: 2px;
+    color: #151414;
 }
 
 /*** Like Button Widget styles*/
