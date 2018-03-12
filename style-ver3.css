@@ -747,15 +747,15 @@
 /*** Flat style*/
 .onp-sociallocker-flat .fb-like span,
 .onp-sociallocker-flat .fb-like iframe {
-    width: 118px !important;
+    width: 100px !important;
 }
 .onp-sociallocker-flat {
     padding: 0px;
     background-color: transparent;
 }
 .onp-sociallocker-flat .onp-sociallocker-inner-wrap {
-    background-color: #f9f9f9;
-    padding: 30px;
+    background-color: #f9f9f969;
+    padding: 5px;
 }
 .onp-sociallocker-flat .onp-sociallocker-outer-wrap {
 }
