@@ -65,7 +65,7 @@
 .onp-sociallocker-state-error .onp-social-button {
     display: none;
 }
-.onp-sociallocker .onp-sociallocker-error-body {
+.onp-sociallocker .onp-sociallocker-error-{
     text-align: center;
 }
 .onp-sociallocker .onp-sociallocker-error-title, 
@@ -758,7 +758,6 @@
     padding: 30px;
 }
 .onp-sociallocker-flat .onp-sociallocker-outer-wrap {
-    border-bottom: 4px solid #f1f1f1;
 }
 .onp-sociallocker-flat .onp-sociallocker-inner-wrap,
 .onp-sociallocker-flat .onp-sociallocker-outer-wrap {
