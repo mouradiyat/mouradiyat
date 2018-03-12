@@ -102,6 +102,7 @@
 }
 .onp-sociallocker-text + .onp-sociallocker-buttons {
     margin-top: 5px;
+    visibility: hidden;
 }
 .onp-sociallocker-button-inner-wrap {
     height: 40px;
