@@ -101,7 +101,7 @@
     text-align: center;
 }
 .onp-sociallocker-text + .onp-sociallocker-buttons {
-    margin-top: 5px;
+    margin-top: 0px;
     visibility: hidden;
 }
 .onp-sociallocker-button-inner-wrap {
